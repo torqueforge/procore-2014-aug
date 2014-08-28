@@ -4,6 +4,10 @@ OOD online reference
 Temporal Patterns
   google 'martin fowler temporal patterns'
 
+Working Effectively with Legacy Code
+  or How to write tests for untested software!!
+  http://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052
+
 Refactoring
   Martin Fowler: Refactoring, Improving the Design of Existing Code
     http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672
