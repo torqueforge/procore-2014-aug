@@ -1,6 +1,8 @@
 OOD online reference
   http://sourcemaking.com/
 
+Temporal Patterns
+  google 'martin fowler temporal patterns'
 
 Refactoring
   Martin Fowler: Refactoring, Improving the Design of Existing Code
